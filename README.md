@@ -2,6 +2,9 @@
 
 Este proyecto define la estructura de una base de datos relacional para gestionar eficientemente los procesos del área de Recursos Humanos, incluyendo empleados, contratos, asistencia, roles de pago y más.
 
+![Diagrama Base de Datos RRHH](RRHH Diagram.png)
+
+
 ## 🏗️ Estructura General
 
 La base de datos está organizada en las siguientes categorías de tablas:
